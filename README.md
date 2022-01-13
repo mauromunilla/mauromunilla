@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Gracias por visitar mis re positorios
+
+### Conoce m 
+
+- [Linkedin](https://www.linkedin.com/in/mauro-munilla-25614922b)
 <!--
 **mauromunilla/mauromunilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
