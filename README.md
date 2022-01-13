@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-Gracias por visitar mis re positorios
+Gracias por visitar mis repositorios
 
 ### Conóceme:
 
