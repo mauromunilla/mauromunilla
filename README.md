@@ -8,7 +8,7 @@ Gracias por visitar mis re positorios
 
 ### Skills:
 
-![PYTHON](https://img.shields.io/badge/PYTHON-009505?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)</br>
+![PYTHON](https://img.shields.io/badge/PYTHON-119515?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)</br>
 ![C++](https://img.shields.io/badge/C++-3DOC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)</br>
 ![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-009505?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>
