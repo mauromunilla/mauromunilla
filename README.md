@@ -2,7 +2,7 @@
 
 Gracias por visitar mis re positorios
 
-### Conoce m 
+### Conóceme
 
 - [Linkedin](https://www.linkedin.com/in/mauro-munilla-25614922b)
 <!--
