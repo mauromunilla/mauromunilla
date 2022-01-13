@@ -2,20 +2,14 @@
 
 Gracias por visitar mis re positorios
 
-### Conóceme
+### Conóceme:
 
 - [Linkedin](https://www.linkedin.com/in/mauro-munilla-25614922b)
-<!--
-**mauromunilla/mauromunilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![PYTHON](https://img.shields.io/badge/PYTHON-009505?style=for-the-badge&logo=PYTHON&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-3DOC84?style=for-the-badge&logo=C++&logoColor=white&labelColor=101010)</br>
+![HTML](https://img.shields.io/badge/HTML-3DDC84?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)</br>
+![CSS](https://img.shields.io/badge/CSS-009505?style=for-the-badge&logo=CSS&logoColor=white&labelColor=101010)</br>
+
